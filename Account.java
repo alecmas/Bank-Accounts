@@ -1,7 +1,7 @@
 //*****************************************************************
 // Account.java
 // Author: Alexander Mas
-// A bank account class with methods to deposit tom withdraw from,
+// A bank account class with methods to deposit to, withdraw from,
 // change the name on, and get a String representation
 // of the account.
 //*****************************************************************
